@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HoangHuyKG/WEHUY.git/static/css/main.fc5dfaa2.chunk.css",
+    "main.js": "/HoangHuyKG/WEHUY.git/static/js/main.de510be4.chunk.js",
+    "main.js.map": "/HoangHuyKG/WEHUY.git/static/js/main.de510be4.chunk.js.map",
+    "runtime-main.js": "/HoangHuyKG/WEHUY.git/static/js/runtime-main.676f2795.js",
+    "runtime-main.js.map": "/HoangHuyKG/WEHUY.git/static/js/runtime-main.676f2795.js.map",
+    "static/js/2.b7df0148.chunk.js": "/HoangHuyKG/WEHUY.git/static/js/2.b7df0148.chunk.js",
+    "static/js/2.b7df0148.chunk.js.map": "/HoangHuyKG/WEHUY.git/static/js/2.b7df0148.chunk.js.map",
+    "static/js/3.fc39b07c.chunk.js": "/HoangHuyKG/WEHUY.git/static/js/3.fc39b07c.chunk.js",
+    "static/js/3.fc39b07c.chunk.js.map": "/HoangHuyKG/WEHUY.git/static/js/3.fc39b07c.chunk.js.map",
+    "index.html": "/HoangHuyKG/WEHUY.git/index.html",
+    "precache-manifest.1908b56185197024913fc64e2abfc9f5.js": "/HoangHuyKG/WEHUY.git/precache-manifest.1908b56185197024913fc64e2abfc9f5.js",
+    "service-worker.js": "/HoangHuyKG/WEHUY.git/service-worker.js",
+    "static/css/main.fc5dfaa2.chunk.css.map": "/HoangHuyKG/WEHUY.git/static/css/main.fc5dfaa2.chunk.css.map",
+    "static/js/2.b7df0148.chunk.js.LICENSE.txt": "/HoangHuyKG/WEHUY.git/static/js/2.b7df0148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.676f2795.js",
+    "static/js/2.b7df0148.chunk.js",
+    "static/css/main.fc5dfaa2.chunk.css",
+    "static/js/main.de510be4.chunk.js"
+  ]
+}
